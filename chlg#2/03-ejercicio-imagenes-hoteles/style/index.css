@@ -1,0 +1,47 @@
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.image {
+  justify-content: center;
+  height: 180px;
+  margin-left: 40%;
+  margin-bottom: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #bb5397;
+  font-family: "Lucida Sans Regular";
+  letter-spacing: 17px;
+  margin-bottom: 30px;
+}
+h4 {
+  font-family: "Lucida Sans Regular";
+  letter-spacing: 10px;
+  color: #bb5397;
+}
+.content {
+  width: 99.8%;
+}
+
+.image-disney {
+  float: right;
+  height: 210px;
+  margin-left: 8px;
+}
+p {
+  text-align: left;
+  color: #6279ae;
+  font-family: "Lucida Grande";
+  text-align: start;
+}
+.left-image {
+  float: left;
+  height: 210px;
+  margin-right: 8px;
+}
+.minnie {
+  width: 99.8%;
+}
