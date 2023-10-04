@@ -1,0 +1,84 @@
+* {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif, Impact,
+    Charcoal, Arial, Gadget;
+  font-family: Impact, "Lucida Sans Unicode", sans-serif;
+}
+body {
+  margin: 0;
+  background-color: #273238;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.header-container {
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  color: #698593;
+  text-align: center;
+  font-family: "Impact";
+  font-weight: bolder;
+  font-size: xx-large;
+}
+p {
+  text-align: justify;
+  color: #ffffff;
+  font-family: "Lucida Sans Unicode";
+}
+h2 {
+  font-family: sans-serif;
+  font-style: italic;
+  margin-top: 40px;
+}
+
+.ASP {
+  color: #e6cbbf;
+}
+.CEL {
+  color: #a1c1cb;
+}
+
+.CON {
+  color: #bcbdbf;
+}
+.HOM {
+  color: #8d94a1;
+}
+.TEL {
+  color: #b2b2aa;
+}
+
+.images {
+  border: 5px solid;
+  margin-left: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.aspiradora {
+  color: #e6cbbf;
+}
+.celphone {
+  color: #a1c1cb;
+}
+
+.consolita {
+  color: #bcbdbf;
+}
+
+.cine {
+  color: #8d94a1;
+}
+.tv {
+  color: #b2b2aa;
+}
+/* .images-cel {
+  margin-left: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 5px solid #a1c1cb;
+}
+.images-con {
+  margin-left: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 5px solid #bcbdbf;
+} */
