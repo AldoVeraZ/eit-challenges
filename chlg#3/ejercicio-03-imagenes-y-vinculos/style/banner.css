@@ -1,0 +1,67 @@
+.cumbre-banner {
+  background-image: url("../img/camping-la-cumbre.jpg");
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: 0;
+  justify-content: center;
+  align-items: center;
+  background-repeat: no-repeat;
+  height: 70vh;
+  width: auto;
+  margin-bottom: 0%;
+  padding-bottom: 0%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 320px */
+@media (min-width: 320px) {
+  .cumbre-banner {
+    height: 15vh;
+    width: auto;
+  }
+}
+/* 375px */
+@media (min-width: 375px) {
+  .cumbre-banner {
+    height: 17vh;
+    width: auto;
+  }
+}
+/* 425px */
+@media (min-width: 425px) {
+  .cumbre-banner {
+    height: 20vh;
+    width: auto;
+  }
+}
+
+/* 768px */
+@media (min-width: 768px) {
+  .cumbre-banner {
+    height: 35vh;
+    width: auto;
+  }
+}
+/* 1024px */
+@media (min-width: 1024px) {
+  .cumbre-banner {
+    height: 45vh;
+    width: auto;
+  }
+}
+/* 1440px */
+@media (min-width: 1140px) {
+  .cumbre-banner {
+    height: 65vh;
+    width: auto;
+  }
+}
+
+/* 2560px */
+@media (min-width: 2560px) {
+  .cumbre-banner {
+    height: 65vh;
+    width: auto;
+  }
+}

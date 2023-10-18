@@ -1,0 +1,63 @@
+/* NAV & HEADER */
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+  margin-top: 0%;
+  padding: 0%;
+}
+
+header a h2 a {
+  margin-top: 0%;
+}
+nav ul li {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+a:link {
+  color: #ef6d24;
+  text-decoration-color: #ef6d24;
+  margin-top: 0%;
+}
+a:hover {
+  color: #d8b03b;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.dif a:hover {
+  color: #775548;
+  text-decoration: none;
+  cursor: pointer;
+}
+.dif2 a:hover {
+  color: red;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.or-nav {
+  color: #ef6d24;
+  text-decoration-color: #ef6d24;
+  margin-top: 0%;
+}
+.line {
+  text-decoration: none;
+  margin-top: 0%;
+  margin-left: 1rem;
+  font-size: large;
+}
+header h1 {
+  color: #775548;
+  letter-spacing: 2px;
+}
+header {
+  margin-top: 0%;
+}
+
+.naveg {
+  margin-top: 1rem;
+  justify-content: flex-start;
+  margin-bottom: 3rem;
+  margin-top: 0%;
+}

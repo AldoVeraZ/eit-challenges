@@ -1,0 +1,70 @@
+/* MAIN SETTINGS*/
+* {
+  font-family: Verdana, Arial, sans-serif;
+}
+html {
+  font-size: 16px;
+}
+body {
+  margin: 8px 8px 0 8px;
+  padding: 0;
+  background-color: #f6f1eb;
+}
+.verdana {
+  font-family: Verdana;
+  font-weight: bold;
+}
+.arial {
+  font-family: Arial;
+}
+.sans {
+  font-family: sans-serif;
+}
+
+.OP {
+  margin-top: 10px;
+  background-color: #775548;
+}
+.col-per {
+  color: #e1d4cf;
+}
+.col-per2 {
+  color: #d8b03b;
+}
+.ul-per {
+  color: #775548;
+  margin-bottom: 2rem;
+}
+.another {
+  color: #775548;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.sw {
+  font-weight: bold;
+}
+
+.or {
+  color: #ef6d24;
+  text-decoration-line: underline;
+  text-decoration-color: #ef6d24;
+  font-weight: 600;
+}
+.brown {
+  color: #775548;
+}
+
+.blue {
+  color: #3aabc4;
+  text-decoration-line: underline;
+  text-decoration-color: #3aabc4;
+  font-weight: 600;
+}
+
+.red {
+  color: #ef4b51;
+  text-decoration-line: underline;
+  text-decoration-color: #ef4b51;
+  font-weight: 600;
+}
